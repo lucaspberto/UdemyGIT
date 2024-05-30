@@ -2,6 +2,6 @@
 
 This is a sample
 
-Changed
+Changed on master branch
 
 New branch
